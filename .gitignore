@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> d05587e85531f5b7d9237df8f56be07d9bc246c3
 # Built application files
 *.apk
 *.ap_
@@ -38,4 +41,8 @@ captures/
 .idea/workspace.xml
 
 # Keystore files
+<<<<<<< HEAD
 *.jks
+=======
+*.jks
+>>>>>>> d05587e85531f5b7d9237df8f56be07d9bc246c3
